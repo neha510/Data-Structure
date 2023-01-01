@@ -1,0 +1,13 @@
+Linear search = O(N)
+
+Binary search = O(log N)
+
+Jump search = O(n/m + (m-1))
+
+          n = size of array
+          m = jump size
+
+Binary search is best among all. it guarantees searching in log n time only.
+
+
+          
